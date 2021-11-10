@@ -1,0 +1,16 @@
+{
+  "Deutsche Bahn (DB)": {
+    "domain": "bahn.com",
+    "additional-domains": [
+      "bahn.de"
+    ],
+    "tfa": [
+      "totp",
+      "sms"
+    ],
+    "documentation": "https://www.bahn.de/service/hilfe/kundenkonto#2-fa",
+    "keywords": [
+      "transport"
+    ]
+  }
+}
